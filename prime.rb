@@ -1,3 +1,3 @@
 def prime?(num)
-  num.prime?(2)
+  num.prime?()
 end
