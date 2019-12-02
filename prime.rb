@@ -1,4 +1,4 @@
-def prime(n)
+def prime?(n)
   if n%2 !=0 && n!=2
     puts "#{n} is prime!"
   else
@@ -6,4 +6,4 @@ def prime(n)
   end
 end
 
-prime(2)
+prime?(2)
