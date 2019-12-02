@@ -3,4 +3,5 @@ def prime?(num)
     return false if num % n == 0 
   end
   true
+  
 end
