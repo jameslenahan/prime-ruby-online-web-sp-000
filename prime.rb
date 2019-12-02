@@ -1,5 +1,5 @@
-def prime?(num)
-  if n%2 != 0 && n != 2 
+def prime?(n)
+  if n %2 != 0 && n != 2 
     return true
   else
     return false
