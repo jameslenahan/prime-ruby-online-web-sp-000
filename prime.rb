@@ -1,4 +1,4 @@
 def prime?(num)
-  if num % 2 
-    and 
+  unless n.is_a? Integer
+  puts "That's not an integer."
 end
