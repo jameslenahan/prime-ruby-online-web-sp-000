@@ -1,9 +1,6 @@
-def prime?(n)
-  if n%2 !=0 && n!=2
-    return true
-  else
-    return false
+def prime?(num)
+  (2..(num -1)).each do |n|
+    return false is num % n == 0 
   end
+  true
 end
-
-prime?(2)
