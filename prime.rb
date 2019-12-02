@@ -1,8 +1,8 @@
 def prime?(n)
   if n%2 !=0 && n!=2
-    puts "#{n} is prime!"
+    return true
   else
-    puts "#{n} is not prime."
+    return false
   end
 end
 
