@@ -1,3 +1,4 @@
 def prime?(num)
-  if num is 
+  if num % 2 
+    and 
 end
