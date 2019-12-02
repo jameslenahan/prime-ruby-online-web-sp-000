@@ -1,3 +1,3 @@
 def prime?(num)
-  num.prime?(Integer)
+  if num is 
 end
