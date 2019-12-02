@@ -1,5 +1,4 @@
 def prime(n)
-  puts "That's not an integer."
   if n%2 !=0 && n!=2
     puts "#{n} is prime!"
   else
