@@ -5,5 +5,4 @@ def prime?(num)
     return true
   else
     returnf false
-  end
 end
